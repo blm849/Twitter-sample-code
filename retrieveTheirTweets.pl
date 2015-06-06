@@ -42,14 +42,10 @@
 # Initialization of shell script
 
 # Store the keys you get from https://apps.twitter.com/ in these 4 variables.
- #$consumer_key			=	'WaEYInYao1x6mZUrTJEfHeT9V';
- #$consumer_secret		=	'hO3oxvd2vZNqbaOD5JpXeo30bDQSjV3xAnrpMSUiqZvKnIm2hb';
- #$access_token			=	'2409477433-QmQfcuZxgPmttzAx3tNYZC14wvhqCT8UsPCBTdI';
- #$access_token_secret	=	'Beh8Ecyj3BGjCTWy7VuL6VoJUydemOOubW5ICRvBt0vq2';
- my $consumer_key			=	'gV13Qbm4MxZ4qwQoi3BhYaq9y';
- my $consumer_secret		=	'jry6nNhLQQm6pmMOveNa8gVIDQyhnBiiJnzsO39DMa7c4hXYsb';
- my $access_token			=	'4922631-M9l7nwz6DZyJK9ZfYQ0YmcgcWvN7S6LY4wxwpsvfk';
- my $access_token_secret	=	'EQ4wctEHxZKiGU0icr0DcydbYUUNfPhnlLiAXW58Bw';
+ my $consumer_key			=	'YourKeyValues';
+ my $consumer_secret		=	'YourKeyValues';
+ my $access_token			=	'YourKeyValues-YourKeyValues';
+ my $access_token_secret	=	'YourKeyValues';
  
 my $high_water = 0;			# a variable to store the ID of the last tweet retrieved
 my $maxLoops = 60;			# Quit the program
