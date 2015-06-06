@@ -1,1 +1,1 @@
-start "get tweets" c:\perl\bin\perl retrieveMyTweets.pl blmtest849.cfg
+start "get tweets" c:\perl\bin\perl retrieveMyTweets.pl sample.cfg

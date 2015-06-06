@@ -1,0 +1,1 @@
+start "get tweets" c:\perl\bin\perl retrieveTheirTweets.pl sample.cfg
