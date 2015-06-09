@@ -23,7 +23,7 @@ code I am runs under 32 bit perl. That is why I have all these BAT files: to byp
 The 32 bit version is v5.10.1 from ActiveState (http://www.ActiveState.com)
 
 Besides my code and Perl, you will need to get your own keys. You can do that here: 
-https://dev.twitter.com/docs/api/1.1
+https://apps.twitter.com/
 
 Once you have the keys, to make hello.pl work, you will need to copy them into the hello.pl program.
 
